@@ -18,7 +18,15 @@ def load_model_and_tokenizer(model_name):
         model.eval()  # Set to evaluation mode
         return tokenizer, model
     except Exception as e:
-        st.error(f"Error loading model {model_name}: {str(e)}")
+        if "404" in str(e) or "Repository not found" in str(e):
+            st.error(f"Model '{model_name}' not found. Please check the model name or try a different model.")
+        elif "connection" in str(e).lower() or "timeout" in str(e).lower():
+            st.error(f"Network error loading {model_name}. Check your internet connection and try again.")
+        elif "memory" in str(e).lower() or "cuda" in str(e).lower():
+            st.error(f"Memory error loading {model_name}. Try a smaller model like 'distilbert-base-uncased'.")
+        else:
+            st.error(f"Error loading model {model_name}: {str(e)}")
+            st.info("💡 Try selecting a different model from the dropdown.")
         return None, None
 
 def extract_attention_weights(model, tokenizer, text, max_length=512):
